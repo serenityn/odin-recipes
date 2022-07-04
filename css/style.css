@@ -1,6 +1,7 @@
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 16px;
 }
 
 
@@ -14,8 +15,14 @@ h2 {
     color: green;
 }
 
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orange;
+}
+
 a {
     text-decoration: none;
+    color: black;
 }
 
 ul {
